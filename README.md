@@ -1,12 +1,28 @@
-<h1>JavaScript Projects Repository</h1>
-<p>Welcome to my JavaScript Projects repository! Here, you'll find a collection of projects that I've created while learning JavaScript. Whether you're a beginner seeking simple examples or an experienced developer , feel free to explore and contribute to these projects. Your contributions are not only welcomed but also encouraged as they help me gain more knowledge about JavaScript and learn even more!</p>
+
+# JavaScript Projects
+
+This repo consists of the projects that I have build using HTML,CSS and JS.
 
 
-<h3>Projects Included</h3>
-<p>Here's a brief overview of the projects you'll find in this repository:</p>
+## How to contribute
 
-<p>Project 1: Temperature Converter</p>
-<p>Project 2: Tic Tac Toe Game</p>
-<p>Feel free to explore each project folder to learn more about its functionality and implementation.</p>
-<h3>Contact</h3>
-<p>If you have any questions or suggestions regarding this repository, feel free to contact me at sarnick.chakraborty@gmail.com</p>
+### 1. Fork this repo
+### 2. Git clone
+
+```bash
+  git clone https://github.com/sarnick005/JavaScript.git
+```
+### 3. Create a new branch 
+
+```bash
+  git checkout -b <your_branch_name>
+```
+### 4. Add & Commit your changes.
+```bash
+  git add .
+  git commit -m "<your_commit_message>"
+```
+### 5. Push your local branch to the remote repository.
+```bash
+  git push -u origin <your_branch_name>
+```
